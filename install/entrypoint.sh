@@ -5,4 +5,4 @@
 
 echo "Hello $1"
 time=$(date)
-echo "time=hussein $time" >> $GITHUB_OUTPUT
+echo "time=hi elhussein $time" >> $GITHUB_OUTPUT
